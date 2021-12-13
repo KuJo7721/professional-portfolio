@@ -1,0 +1,27 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    background-color: rgb(12, 10, 133);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
+.hero{
+    width: 25%;
+    height: 400px;
+    background-image: url("https://via.placeholder.com/728x400.png");
+
+}
+
+.About-box{
+    display: flexwrap;
+    flex-direction: row;
+    text-align: center;
+    background-color: rgb(110, 53, 163);
+    color: lightcoral;
+    width: 20%;
+    height: 200px;
+}
