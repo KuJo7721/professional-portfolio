@@ -12,8 +12,8 @@ header{
 .hero{
     width: 25%;
     height: 400px;
-    background-image: url("https://via.placeholder.com/728x400.png");
-
+    background-image: url("https://assets.codepen.io/69263/internal/avatars/users/default.png?fit=crop&format=auto&height=256&version=2&width=256");
+    
 }
 
 .About-box{
@@ -24,4 +24,41 @@ header{
     color: lightcoral;
     width: 20%;
     height: 200px;
+    border-radius: 30%;
+    
+}
+
+.Projects-box{
+    display: flexbox;
+    flex-direction: row;
+    text-align: center;
+    background-color: firebrick;
+    color: lime;
+    width: 20%;
+    height: 200px;
+    border-radius: 30%;
+    
+    
+}
+
+.Contact-box{
+    display: flexbox;
+    flex-direction: row;
+    text-align: center;
+    background-color: black;
+    color: gold;
+    width: 20%;
+    height: 200px;
+    border-radius: 30%;
+}
+
+.footer-box{
+    display: flexbox;
+    background-color: blue;
+    color: white;
+    height: 50px;
+}
+
+nav>a{
+    color: white !important;
 }
