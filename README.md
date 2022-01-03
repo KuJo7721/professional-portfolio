@@ -1,2 +1,4 @@
 # professional-portfolio
 Hello, I know this project isnt complete. And I know it pretty plain. I got super confused last week and have been playing catch up ever since. I wanted to get at least some grade on this befor it was to late. I believ I covered the basics of what you want. I definately will be adding to it.
+
+On this one I completly restarted. I have my old files still attached for reference. I rebuilt the whole thing using mostly bootstrap. I will fill in the blanks on the page as soon as the come about, I did put one link on there so show that i knew whwt I was doing. Im not sure what i want in my placeholders or exactly what i want to say.
