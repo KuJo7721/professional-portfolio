@@ -1,4 +1,44 @@
-# professional-portfolio
-Hello, I know this project isnt complete. And I know it pretty plain. I got super confused last week and have been playing catch up ever since. I wanted to get at least some grade on this befor it was to late. I believ I covered the basics of what you want. I definately will be adding to it.
+# professional-portfolio 
 
-On this one I completly restarted. I have my old files still attached for reference. I rebuilt the whole thing using mostly bootstrap. I will fill in the blanks on the page as soon as the come about, I did put one link on there so show that i knew whwt I was doing. Im not sure what i want in my placeholders or exactly what i want to say.
+ ## Description
+  A page to show off my skills in what i have learned to this point
+
+  ## Table of Contents (Optional)
+  
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Tests](#tests)
+  - [Questions](#questions)
+
+  ## Installation
+  self installation
+
+  
+  
+  
+  ## Usage
+  Enter in your info and out comes your ReadME
+
+ 
+  
+  ## Contributing
+  
+  
+  
+  
+  ## License
+  
+    
+    
+
+  
+
+  
+  
+  
+  ## Questions
+  [Link to Github page](https://github.com/KuJo7721)
+  If you need any more information please email me @ kjkrueger12@gmail.com
+  
